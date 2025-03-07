@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+An;AWS+Cloud+Engineer)](https://git.io/typing-svg)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thien.an.5076?mibextid=wwXIfr&rdid=4mI4tYhow9LOscKi&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F121CLGojY9J%2F%3Fmibextid%3DwwXIfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/an-nguyen-161196-cloud) 
