@@ -15,4 +15,4 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12227301-7d69-4efa-b015-67525ab4c1c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
-[![](https://visitcount.itsvg.in/api?id=andrewnguyen1611&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anlangthang&icon=0&color=0)](https://visitcount.itsvg.in)
